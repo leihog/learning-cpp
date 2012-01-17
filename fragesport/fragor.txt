@@ -1,0 +1,40 @@
+[F]:Vad heter gitarristen i Ozzy Osborne?
+[A]:Puff Daddy
+[A]:Eminem
+[S]:Zakk Wylde
+[F]:Vem gjorde cover på Queens "We will rock you?"
+[A]:Blink 182
+[S]:Five
+[A]:Sepultura
+[F]:Vilket band skrev låten "Angel of death?"
+[A]:Necrophilia
+[A]:Machine head
+[S]:Slayer
+[F]:Vilket pojkband splittrades nyligen pga av osämja?
+[A]:The Backstreet Boys
+[A]:The return of The Backstreet Boys
+[S]:Five
+[F]:Vilken låt är Michael Jacksons största?
+[A]:Bad
+[S]:Heal the world
+[A]:Bin Laden and friends
+[F]:Vilket band gav ut låten sear me??
+[A]:Skidrow
+[S]:My Dying Bride
+[A]:Napalm Death
+[F]:Vilken hårfärg har Britney Spears, egentligen??
+[A]:Brunett
+[A]:Blond
+[S]:Det vet hon inte ens själv!
+[F]:Vad heter Depeche Modes senaste skiva?
+[A]:The real Slim Shady
+[S]:Exciter
+[A]:Ultra
+[F]:Vilket band släpte låten symphony of destruction?
+[A]:Iron Maiden
+[S]:Megadeath
+[A]:Poison
+[F]:Vilket år släpptes seventh son of a seventh son??
+[A]:1986
+[S]:1988
+[A]:1983
